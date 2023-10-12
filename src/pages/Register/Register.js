@@ -77,7 +77,7 @@ const Register = () => {
     } else if (status === "") {
       toast.error("Status is Required !")
     } else if (image === "") {
-      toast.error("Prfile is Required !")
+      toast.error("Profile is Required !")
     } else if (location === "") {
       toast.error("location is Required !")
     } else {
